@@ -48,6 +48,11 @@ h1 {
 	margin-bottom: 50px;
 }
 
+.container {
+	width: 1170px;
+	margin: 0 auto;
+
+}
 .mama {
 	width: 500px;
 	height: 500px;
@@ -100,6 +105,8 @@ h1 {
 	width: 100px;
 	transform: translate(-50%, -50%);
 }
+
+
 
 
 
